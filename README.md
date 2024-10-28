@@ -9,4 +9,4 @@
 ![eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
 ![sqldeveloper](https://img.shields.io/badge/sqldeveloper-%235391FE.svg?style=for-the-badge&logo=sqldeveloper&logoColor=white)
   
-  [Simple-ERP_PDF](https://github.com/RobotChalle/Simple-ERP/blob/main/Step2-Simple_ERP.pdf))
+  [Simple-ERP_PDF](https://github.com/RobotChalle/Simple-ERP/blob/main/Step2-Simple_ERP.pdf)
